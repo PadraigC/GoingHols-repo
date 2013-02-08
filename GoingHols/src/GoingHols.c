@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	puts("!!!Going on Hols V2 ***"); /* prints !!!Hello World!!! */
+	puts("!!!Going on Hols V4 ***"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
